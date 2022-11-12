@@ -11,8 +11,12 @@
 </div>
 
 <!-- Description -->
-##Description
-asdasd
+## Description
+__
+This app was made with React, JavaScript, HTML and CSS.
+Try to reload the page, to see how your tasks are maintained.
+Because this app uses the LocalStorage API. :)
+__
 
 <!-- OVERVIEW -->
 
