@@ -1,0 +1,40 @@
+.task-form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.4rem;
+    margin: 10px 0px 30px 0px;
+    border-radius: 5px;
+}
+
+.task-input {
+    padding: 9px;
+    font-size: 1.2rem;
+    width: 100%;
+    border-style: none;
+    border: 1px solid green;
+}
+
+.task-input:focus {
+    outline: 1px solid green;
+}
+
+.task-submit {
+    width: 150px;
+    height: 100%;
+    border-style: none;
+    padding: 9px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    background-color: green;
+    border: 1px solid green;
+    color: white;
+    transition: .5s;
+    text-transform: capitalize;
+}
+
+.task-submit:hover {
+    background-color: rgb(30, 0, 140);
+    border: 1px solid rgb(30, 0, 140);
+    width: 160px;
+}
