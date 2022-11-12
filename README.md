@@ -12,11 +12,11 @@
 
 <!-- Description -->
 ## Description
-__
-This app was made with React, JavaScript, HTML and CSS.
-Try to reload the page, to see how your tasks are maintained.
-Because this app uses the LocalStorage API. :)
-__
+__ <br>
+This app was made with React, JavaScript, HTML and CSS. <br>
+Try to reload the page, to see how your tasks are maintained. <br>
+Because this app uses the LocalStorage API. :) <br>
+__ 
 
 <!-- OVERVIEW -->
 
